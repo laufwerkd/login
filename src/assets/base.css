@@ -1,0 +1,7 @@
+@import '../../node_modules/bootstrap-icons/font/bootstrap-icons.css';
+
+:root {
+    --dark: #101010;
+    --light: #f0f0f0;
+    --main: #326ada;
+}
